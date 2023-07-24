@@ -1,0 +1,54 @@
+.systumm {
+font-size: 30px;
+}
+
+hr{
+    max-width: 200px;
+}
+
+
+.okk {
+    
+text-align: center;
+color: white;
+
+}
+
+.systummm {
+    
+    font-weight: bold;
+    font-size: 50px;
+	
+}
+
+
+    
+
+nav {
+    background-color: rgb(53, 48, 48);
+  overflow: hidden;
+    
+}
+
+nav a {
+    text-decoration: none;
+    background-size: 40px;
+   padding: 20px;
+   color: white;
+   margin: 10px;
+   
+
+}
+
+nav a:hover{
+    color: rgb(0, 0, 0);
+}
+nav a:visited{
+    
+}
+
+.okk img {
+   
+    height: 140px;
+
+}
